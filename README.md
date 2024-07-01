@@ -41,6 +41,6 @@ Todos los proyectos en este repositorio están bajo la Licencia MIT, a menos que
 
 ## Contacto
 
-Para cualquier pregunta o sugerencia relacionada con pythonMania, no dudes en contactar al equipo a través de [discord]https://discord.gg/Ahk7Fm9Hbk o abriendo un issue en el repositorio.
+Para cualquier pregunta o sugerencia relacionada con pythonMania, no dudes en contactar al equipo a través de [discord](https://discord.gg/Ahk7Fm9Hbk) o abriendo un issue en el repositorio.
 
 ¡Explora, aprende y diviértete programando con pythonMania!
